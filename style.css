@@ -1,0 +1,30 @@
+
+.table{
+    background-color: rgb(207, 228, 250);
+    margin-bottom: 50px;
+}
+.cle{
+    background-color: rgb(7, 131, 7);
+    color: white;
+}
+.cle:hover{
+    background-color: rgb(9, 163, 42);
+}
+.tbl{
+    overflow-x: auto;
+}
+td
+{
+    overflow: hidden;
+    width:100px;
+
+}
+.foot{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:white;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
